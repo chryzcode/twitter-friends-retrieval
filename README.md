@@ -16,3 +16,4 @@ I do mot want to really go too technical on this;
 
 Generally, oauth is program that is based on security protection, having interactions passwords and some kind'a authentication process.So, this really comes to action in the sense of ensuring legitimacy dealing with a twitter account and its api keys respectively, protecting, granting access and making confirmation of the twitter accountintended to be used.
 This is imported in the python code "hidden.py" where your api keys are stored and it is also imported in a python code that would be reviewed along the line..."twurl.py"
+If you want to read more on oauth you can check it out [here](https://en.wikipedia.org/wiki/OAuth#:~:text=OAuth%20is%20an%20open%20standard,without%20giving%20them%20the%20passwords.)!
